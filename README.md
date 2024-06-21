@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Manoj Bhandari, a passionate Full Stack Developer currently working at Setula Tech. With a diverse skill set and a knack for creating seamless user experiences and efficient backend systems, I bring ideas to life from concept to production.
+Hi, I'm Manoj Bhandari, a passionate Full Stack Developer currently working at Setula Tech. With a diverse skill set and a ability for creating seamless user experiences and efficient backend systems, I bring ideas to life from concept to production.
 
 
 ## 🌐 Socials:
